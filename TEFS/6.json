@@ -1,0 +1,16 @@
+{
+    "description": "三皇之神农",
+    "external_url": "https://www.adhajs.com/nft",
+    "image": "https://www.adhajs.com/images/nft/6.jpg",
+    "name": "神农",
+    "attributes": [
+        {
+            "trait_type": "数量",
+            "value": "32"
+        },
+        {
+            "trait_type": "股权分红",
+            "value": "0.2%"
+        }
+    ]
+}

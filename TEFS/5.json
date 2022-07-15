@@ -1,0 +1,16 @@
+{
+    "description": "三皇之燧人",
+    "external_url": "https://www.adhajs.com/nft",
+    "image": "https://www.adhajs.com/images/nft/5.jpg",
+    "name": "燧人",
+    "attributes": [
+        {
+            "trait_type": "数量",
+            "value": "48"
+        },
+        {
+            "trait_type": "股权分红",
+            "value": "0.15%"
+        }
+    ]
+}

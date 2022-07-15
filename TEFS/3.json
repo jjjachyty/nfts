@@ -1,0 +1,16 @@
+{
+    "description": "五帝之帝喾",
+    "external_url": "https://www.adhajs.com/nft",
+    "image": "https://www.adhajs.com/images/nft/3.jpg",
+    "name": "帝喾",
+    "attributes": [
+        {
+            "trait_type": "数量",
+            "value": "20"
+        },
+        {
+            "trait_type": "股权分红",
+            "value": "0.02%"
+        }
+    ]
+}
