@@ -1,0 +1,16 @@
+{
+    "description": "上帝之子",
+    "external_url": "https://www.adhajs.com/nft",
+    "image": "https://www.topleague.vip/images/nft/0.jpg",
+    "name": "混沌体",
+    "attributes": [
+        {
+            "trait_type": "数量",
+            "value": "500"
+        },
+        {
+            "trait_type": "每日释放总量",
+            "value": "200000SDZZ"
+        }
+    ]
+}
